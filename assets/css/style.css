@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+}
+
+
+a {
+   color: #41bee8;
+}
+
+
+a:hover {
+    color: #26728b;
+}
+
+
+.nomargin {
+    margin: 0px !important;
+}
+
+
+.nopadding {
+    padding: 0px !important;
+}
+
+
+
+/* hero */
+#hero-section {
+    background-image: url("../img/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+
+h1 {
+    color: #333333;
+}
+
+#hero-section p {
+    font-size: 1.4em;
+    color: #69696a;
+}
+
+#botones-hero {
+    padding-top: 2em;
+}
+
+#botones-hero a {
+    color: #e9e9e9;
+    text-decoration: none;
+}
+
+
+
+/* Sobre mí */
+#sobre-mi {
+    background-color: rgb(236, 241, 244);
+    color: #333333;
+    text-align: center;
+    display: inline-block;
+}
+
+#sobre-mi-texto {
+    display: inline-block;
+    text-align: left;
+}
+
+#sobre-mi .container {
+    padding: 10em 0;
+}
+
+#avatar img {
+    width: 10em;
+    border-radius: 50%;
+}
+
+#avatar {
+    float: left;
+}
+
+#sobre-mi-texto {
+    display: inline-block;
+}
+
+#social-media ul li {
+    display: inline-block;
+    font-size: 2em;
+    padding: 0em 0.2em;
+}
+
+
+
+
+/* Tecnologías */
+#tecnologias {
+    padding: 10em 0;
+}
+
+#tecnologias i, h3 {
+    color: #41bee8;
+}
+
+details summary {
+    color: #333333;
+    font-weight: 700;
+}
+
+details {
+    font-weight: 300;
+    color: #333333;
+    padding: 1em;
+}
+
+
+
+/* Experiencia */
+#experiencia h3 {
+    font-size: 1em;
+}
+
+#experiencia {
+    padding: 10em 0;
+}
+
+#experiencia p, details {
+    padding: 1em 0;
+}
+
+
+
+/* Formación */
+#formacion {
+    padding: 10em 0;
+}
+
+#formacion li {
+    padding: 1em 0;
+}
+
+
+
+/* Contacto */
+#contacto form {
+    padding: 10em 0;
+}
+
+.bg-contacto {
+    background-color: #f0f6f8;
+}
