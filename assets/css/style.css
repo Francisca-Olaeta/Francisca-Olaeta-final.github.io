@@ -26,7 +26,7 @@ a:hover {
 
 /* hero */
 #hero-section {
-    background-image: url("assets/img/avatar.png");
+    background-image: url("assets/img/bg-masthead.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
